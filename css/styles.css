@@ -483,5 +483,16 @@ a:hover {
   .top-container {
     margin-top: 11vh;
   }
-
+}
+@media screen and (min-width: 701px) and (max-width: 1200px) {
+  .img-info {
+    margin-left: 5vw;
+    margin-top: 6vh;
+  }
+  .img-info-2 {
+    margin-top: 3vh;
+  }
+  .col-image {
+    margin-top: 10vh;
+  }
 }

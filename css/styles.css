@@ -457,12 +457,16 @@ a:hover {
 /*Gallery END*/
 
 
-@media (orientation: portrait) {
+/*@media (orientation: portrait) {*/
+@media screen and (max-width: 700px) {
   .img-cont {
     margin: 7vw;
   }
   .btn {
-    width: 19vw;
+    width: 35vw;
+  }
+  .btn-container {
+    margin-bottom: -12vh;
   }
   .col-btn {
     width: 26vw;

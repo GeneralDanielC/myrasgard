@@ -1,0 +1,16 @@
+@media screen and (max-width: 700px) {
+  .img-cont {
+    display: none;
+    clear: both;
+    float: left;
+  }
+  .row {
+    padding:0;
+  }
+  #img-abt {
+    display: block;
+  }
+}
+.h3-container {
+  padding-top:4vh;
+}
